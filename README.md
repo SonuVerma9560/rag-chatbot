@@ -16,7 +16,7 @@ Upload a PDF and ask questions from it using AI.
 - Groq API
 
 ## 🌐 Live App
-https://rag-chatbot-lvzalqtsfuutme6nfeznf.streamlit.app
+https://rag-chatbot-uvvnvnaxkpt678mp8jande.streamlit.app/
 
 ## 💻 GitHub
 https://github.com/SonuVerma9560/rag-chatbot
